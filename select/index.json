@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2000 -juice-】",
+  "base_artist": "B'z",
+  "createdAt": "2026-03-03T10:36:17.639722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bukan PHO (feat. Aldo Bz)",
+      "artist": "Liany Panmuma",
+      "has_synced": true,
+      "path": "select/01_Bukan_PHO_(feat._Aldo_Bz)_Liany_Panmuma.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BZ BZ",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/02_BZ_BZ_Rei.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Keep Circling (BZ edit)",
+      "artist": "Harmjoy",
+      "has_synced": false,
+      "path": "select/03_We_Keep_Circling_(BZ_edit)_Harmjoy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm BZ",
+      "artist": "Black Zang",
+      "has_synced": true,
+      "path": "select/04_I'm_BZ_Black_Zang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ALONE (Originally Performed by B'z)",
+      "artist": "オルゴール ミドリ",
+      "has_synced": false,
+      "path": "select/05_ALONE_(Originally_Performed_by_B'z)_オルゴール_ミドリ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BZ",
+      "artist": "Janus",
+      "has_synced": false,
+      "path": "select/06_BZ_Janus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BZ",
+      "artist": "Juanchito",
+      "has_synced": true,
+      "path": "select/07_BZ_Juanchito.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Faucon BZ",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/08_Faucon_BZ_Falco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "25.B'z - HOME(1998.7.8)",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/09_25.B'z_-_HOME(1998.7.8)_B'z.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "06.B'z - Easy Come, Easy Go!(1",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/10_06.B'z_-_Easy_Come,_Easy_Go!(1_B'z.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "13.B'z - 裸足の女神(1993.6.2)",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/11_13.B'z_-_裸足の女神(1993.6.2)_B'z.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "27.B'z - 今夜月の見える丘に(20",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/12_27.B'z_-_今夜月の見える丘に(20_B'z.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "24.B'z - さまよえる蒼い弾丸(19",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/13_24.B'z_-_さまよえる蒼い弾丸(19_B'z.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "01.B'z - だからその手を離して(",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/14_01.B'z_-_だからその手を離して(_B'z.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bukan PHO (feat. Aldo Bz)",
+      "artist": "Liany Panmuma",
+      "has_synced": true,
+      "path": "select/15_Bukan_PHO_(feat._Aldo_Bz)_Liany_Panmuma.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "03.B'z - Lady-Go-Round(1990.2.",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/16_03.B'z_-_Lady-Go-Round(1990.2._B'z.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "04.B'z - BE THERE(1990.5.25)",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/17_04.B'z_-_BE_THERE(1990.5.25)_B'z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B'z 兵、走る",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_B'z_兵、走る_B'z.txt"
+    }
+  ]
+}
